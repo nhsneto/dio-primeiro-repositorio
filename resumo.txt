@@ -1,0 +1,79 @@
+	Resumo - Principais Comandos Git
+
+
+Inicializa um novo repositório no diretório corrente:
+
+    $ git init
+
+
+Adiciona um arquivo para staging area: 
+	
+    $ git add <nome-do-arquivo>
+
+
+Salva as alterações dos arquivos que estão na staging area no repositório,
+usanto a flag -m para informar a mensagem do commit:
+
+    $ git commit -m 'mensagem'
+
+
+Realiza um clone/cópia de um repositório existente:
+
+    $ git clone <caminho-do-repositorio>
+
+
+Envia o conteúdo do repositório local para o repositório remoto, utilizando
+o nome do remote e a branch desejada:
+
+    $ git push <nome-do-remote> <branch>
+
+
+Puxa/recebe o conteúdo do repositório remoto para o repositório local,
+utilizando o nome do remote:
+
+    $ git pull <nome-do-remote>
+
+
+Lista as branches existente no repositório (o asterisco mostra em qual branch
+estamos no momento:
+
+    $ git branch
+
+
+Cria uma branch:
+
+    $ git branch <nome-da-nova-branch>
+
+
+Muda para uma branch:
+
+    $ git checkout <nome-da-branch>
+
+
+Cria uma nova branch e muda para esta branch criada:
+
+    $ git checkout -b <nome-da-nova-branch>
+
+
+Merge/junta/fundi/mescla a branch informada na branch atual que estamos:
+
+    $ git merge <nome-da-branch>
+
+
+Remove a branch (local) informada:
+
+    $ git branch -d <nome-da-branch>
+
+
+Mostra todos os commits realizados no repositório:
+
+    $ git log
+
+
+Mostra o estado do repositório, se tem arquivos na staging area ou
+arquivos que não estão sendo rastreados (untracked), em quantos
+commits o repositório local está a frente do repositório remoto.
+
+    $ git status
+
+
