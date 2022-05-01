@@ -1,5 +1,5 @@
-# primeiro-repositorio-dio
-Primeiro repositório para o curso de github ministrado na plataforma **[DIO](https://www.dio.me/)**.
+# dio-primeiro-repositorio
+Exercício do *Primeiro repositório* para o curso de github ministrado na plataforma **[DIO](https://www.dio.me/)**.
 
 ## Sobre
 Este repositório possui um arquivo do tipo texto, contendo os principais  
