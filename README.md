@@ -1,6 +1,5 @@
 # primeiro-repositorio-dio
-Primeiro repositório para o curso de github o qual faz parte do bootcamp  
-**[NTT DATA](https://br.nttdata.com/) Android Developer** na plataforma **[DIO](https://www.dio.me/)**.
+Primeiro repositório para o curso de github ministrado na plataforma **[DIO](https://www.dio.me/)**.
 
 ## Sobre
 Este repositório possui um arquivo do tipo texto, contendo os principais  
